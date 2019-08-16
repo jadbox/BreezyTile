@@ -1,7 +1,7 @@
-# Material Shell
-## A material tiling shell replacement for GNOME Shell to simplify your workflow and accelerate your productivity.
+# BreezyTile
+## A tiling shell replacement for GNOME Shell to simplify your workflow and accelerate your productivity.
 
-The project is based on my earlier work on [Material Awesome](https://github.com/PapyElGringo/material-awesome). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow and follows the [Material Design guidelines](https://material.io).
+The project is based on @PapyElGringo work on [Material Shell](https://github.com/PapyElGringo/material-shell). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow, but without any changes to the gnome shell chrome/layout.
 
 ## Demo
 
@@ -16,7 +16,7 @@ Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://d
 ## Installation
 1) Clone the project to the gnome-shell extensions folder:
 ```bash
-git clone https://github.com/PapyElGringo/breezytile.git ~/.local/share/gnome-shell/extensions/breezytile@jadbox
+git clone https://github.com/jadbox/breezytile.git ~/.local/share/gnome-shell/extensions/breezytile@jadbox
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
