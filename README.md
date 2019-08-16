@@ -1,14 +1,12 @@
-# Material Shell
-## A material tiling shell replacement for GNOME Shell to simplify your workflow and accelerate your productivity.
+# BreezyTile
+## A tiling shell replacement for GNOME Shell to simplify your workflow and accelerate your productivity.
 
-The project is based on my earlier work on [Material Awesome](https://github.com/PapyElGringo/material-awesome). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow and follows the [Material Design guidelines](https://material.io).
+The project is based on @PapyElGringo work on [Material Shell](https://github.com/PapyElGringo/material-shell). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow, but without any changes to the gnome shell chrome/layout.
 
 ## Demo
-
+(outdated demo video)
 ![Demo GIF](demo.gif)
 
-### Discord
-Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://discord.gg/vBb7D9a)
 #
 #### STATUS: BETA (expect bugs!)
 #### REQUIRES: gnome-shell >=3.32.0
@@ -16,28 +14,28 @@ Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://d
 ## Installation
 1) Clone the project to the gnome-shell extensions folder:
 ```bash
-git clone https://github.com/PapyElGringo/material-shell.git ~/.local/share/gnome-shell/extensions/material-shell@papyelgringo
+git clone https://github.com/jadbox/breezytile.git ~/.local/share/gnome-shell/extensions/breezytile@jadbox
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
   + On Wayland: Log out and back in
-3) Open `gnome-tweaks` and activate the `Material-shell` extension **OR** enable it using 
+3) Open `gnome-tweaks` and activate the `BreezyTile` extension **OR** enable it using 
 ```bash
-gnome-shell-extension-tool -e material-shell@papyelgringo
+gnome-shell-extension-tool -e breezytile@jadbox
 ```
 
 ### Arch Linux
-1) You can choose to install using the Arch Linux User-Community Repository (AUR) https://aur.archlinux.org/packages/gnome-shell-extension-material-shell-git/ \
+1) You can choose to install using the Arch Linux User-Community Repository (AUR) https://aur.archlinux.org/packages/gnome-shell-extension-breezytile-git/ \
 Assuming you're using yay:
 ```
-yay -S gnome-shell-extension-material-shell-git
+yay -S gnome-shell-extension-breezytile-git
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
   + On Wayland: Log out and back in
-3) Open `gnome-tweaks` and activate the `Material-shell` extension **OR** enable it using 
+3) Open `gnome-tweaks` and activate the `BreezyTile` extension **OR** enable it using 
 ```bash
-gnome-shell-extension-tool -e material-shell@papyelgringo
+gnome-shell-extension-tool -e breezytile@jadbox
 ```
 
 ## Workflow Hotkeys
@@ -58,7 +56,7 @@ Some hotkeys might already be used by GNOME Shell - please check your keybinding
 
 #### Extra Hotkeys
 * `Super+Space` Cycle the tiling layout of the current workspace.
-* `Super+Escape` Toggle the UI of Material-shell, like a Zen mode.
+* `Super+Escape` Toggle the UI of BreezyTile, like a Zen mode.
 
 ## Optional Configuration
 * Get [Plata Theme](https://gitlab.com/tista500/plata-theme) as the GTK and shell theme 

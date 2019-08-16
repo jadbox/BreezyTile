@@ -28,7 +28,7 @@ If Sass is installed, then:
 1) Make changes to the `stylesheet.scss` file as you please.
 2) Compile the file, and generate a sourcemap:
 ```bash
-cd ~/.local/share/gnome-shell/extensions/material-shell@papyelgringo
+cd ~/.local/share/gnome-shell/extensions/breezytile
 sass stylesheet.scss:stylesheet.css --sourcemap
 ```
 3) Reload GNOME Shell:
