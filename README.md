@@ -4,11 +4,9 @@
 The project is based on @PapyElGringo work on [Material Shell](https://github.com/PapyElGringo/material-shell). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow, but without any changes to the gnome shell chrome/layout.
 
 ## Demo
-
+(outdated demo video)
 ![Demo GIF](demo.gif)
 
-### Discord
-Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://discord.gg/vBb7D9a)
 #
 #### STATUS: BETA (expect bugs!)
 #### REQUIRES: gnome-shell >=3.32.0
