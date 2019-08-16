@@ -1,8 +1,10 @@
 {
     "name": "BreezyTile",
-    "description": "Change the workflow of the Gnome-shell to Mouse-driven Tileable workflow",
+    "description": "Change the workflow of the Gnome-shell to Mouse-driven Tileable workflow with minimal changes to gnome UI",
     "uuid": "breezytile@jadbox",
     "shell-version": ["3.32"],
     "bindings": "org.gnome.shell.extensions.breezytile.bindings",
-    "layouts": "org.gnome.shell.extensions.breezytile.layouts"
+    "layouts": "org.gnome.shell.extensions.breezytile.layouts",
+    "original-authors": [ "jdunlap@outlook.com", "adrien@pesler.be" ],
+    "url": "https://github.com/jadbox/BreezyTile"
 }
