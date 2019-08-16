@@ -1,8 +1,8 @@
 {
-    "name": "Material Shell",
+    "name": "BreezyTile",
     "description": "Change the workflow of the Gnome-shell to Mouse-driven Tileable workflow",
-    "uuid": "material-shell@papyelgringo",
+    "uuid": "breezytile@jadbox",
     "shell-version": ["3.32"],
-    "bindings": "org.gnome.shell.extensions.materialshell.bindings",
-    "layouts": "org.gnome.shell.extensions.materialshell.layouts"
+    "bindings": "org.gnome.shell.extensions.breezytile.bindings",
+    "layouts": "org.gnome.shell.extensions.breezytile.layouts"
 }

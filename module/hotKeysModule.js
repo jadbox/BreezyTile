@@ -187,7 +187,7 @@ var HotKeysModule = class HotKeysModule {
         );
 
         Main.wm.addKeybinding(
-            'toggle-material-shell-ui',
+            'toggle-breezytile-ui',
             settings,
             Meta.KeyBindingFlags.IGNORE_AUTOREPEAT,
             Shell.ActionMode.NORMAL,

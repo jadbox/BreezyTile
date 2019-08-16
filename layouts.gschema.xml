@@ -1,5 +1,5 @@
 <schemalist>
-  <schema id="org.gnome.shell.extensions.materialshell.layouts" path="/org/gnome/shell/extensions/materialshell/layouts/">
+  <schema id="org.gnome.shell.extensions.breezytile.layouts" path="/org/gnome/shell/extensions/breezytile/layouts/">
     <key name="maximize" type="b">
       <default>false</default>
       <summary>Maximize layout</summary>

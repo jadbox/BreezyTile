@@ -16,28 +16,28 @@ Get notified about updates and join me at [https://discord.gg/vBb7D9a](https://d
 ## Installation
 1) Clone the project to the gnome-shell extensions folder:
 ```bash
-git clone https://github.com/PapyElGringo/material-shell.git ~/.local/share/gnome-shell/extensions/material-shell@papyelgringo
+git clone https://github.com/PapyElGringo/breezytile.git ~/.local/share/gnome-shell/extensions/breezytile@jadbox
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
   + On Wayland: Log out and back in
-3) Open `gnome-tweaks` and activate the `Material-shell` extension **OR** enable it using 
+3) Open `gnome-tweaks` and activate the `BreezyTile` extension **OR** enable it using 
 ```bash
-gnome-shell-extension-tool -e material-shell@papyelgringo
+gnome-shell-extension-tool -e breezytile@jadbox
 ```
 
 ### Arch Linux
-1) You can choose to install using the Arch Linux User-Community Repository (AUR) https://aur.archlinux.org/packages/gnome-shell-extension-material-shell-git/ \
+1) You can choose to install using the Arch Linux User-Community Repository (AUR) https://aur.archlinux.org/packages/gnome-shell-extension-breezytile-git/ \
 Assuming you're using yay:
 ```
-yay -S gnome-shell-extension-material-shell-git
+yay -S gnome-shell-extension-breezytile-git
 ```
 2) Reload GNOME Shell:
   + On X.org: Hit `Alt+F2` and type the command `r`
   + On Wayland: Log out and back in
-3) Open `gnome-tweaks` and activate the `Material-shell` extension **OR** enable it using 
+3) Open `gnome-tweaks` and activate the `BreezyTile` extension **OR** enable it using 
 ```bash
-gnome-shell-extension-tool -e material-shell@papyelgringo
+gnome-shell-extension-tool -e breezytile@jadbox
 ```
 
 ## Workflow Hotkeys
@@ -58,7 +58,7 @@ Some hotkeys might already be used by GNOME Shell - please check your keybinding
 
 #### Extra Hotkeys
 * `Super+Space` Cycle the tiling layout of the current workspace.
-* `Super+Escape` Toggle the UI of Material-shell, like a Zen mode.
+* `Super+Escape` Toggle the UI of BreezyTile, like a Zen mode.
 
 ## Optional Configuration
 * Get [Plata Theme](https://gitlab.com/tista500/plata-theme) as the GTK and shell theme 
