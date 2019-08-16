@@ -92,7 +92,7 @@ var RequiredSettingsModule = class RequiredSettingsModule {
                 ) {
                     setting.set_strv(key, ['']);
                     Main.notify(
-                        'Material-shell',
+                        'BreezyTile',
                         `This extension has unset the ${key} hotkey to override it`
                     );
                 }
@@ -112,7 +112,7 @@ var RequiredSettingsModule = class RequiredSettingsModule {
             setting[`set_${valueType}`](key, value);
 
             Main.notify(
-                'Material-shell',
+                'BreezyTile',
                 `This extension has override the ${key} setting to ${value}`
             );
         }

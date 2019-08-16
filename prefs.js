@@ -62,8 +62,8 @@ const hotKeysLabels = {
     'move-window-bottom': 'Move the current window to lower workspace',
     'cycle-tiling-layout':
         'Cycle around the tiling layout on the current workspace',
-    'toggle-material-shell-ui':
-        'Toggle the material-shell UI to simulate fullscreen'
+    'toggle-breezytile-ui':
+        'Toggle the breezytile UI to simulate fullscreen'
 };
 
 const layouts = {

@@ -1,5 +1,5 @@
 <schemalist>
-  <schema id="org.gnome.shell.extensions.materialshell.bindings" path="/org/gnome/shell/extensions/materialshell/bindings/">
+  <schema id="org.gnome.shell.extensions.breezytile.bindings" path="/org/gnome/shell/extensions/breezytile/bindings/">
     <key name="previous-window" type="as">
       <default><![CDATA[['<Super>a']]]></default>
       <summary>Focus previous window</summary>
@@ -70,11 +70,11 @@
         Cycle around the tiling layout on the current workspace
       </description>
     </key>
-    <key name="toggle-material-shell-ui" type="as">
+    <key name="toggle-breezytile-ui" type="as">
       <default><![CDATA[['<Super>Escape']]]></default>
-      <summary>Toggle the material-shell UI to simulate fullscreen</summary>
+      <summary>Toggle the UI to simulate fullscreen</summary>
       <description>
-        Toggle the material-shell UI to simulate fullscreen
+        Toggle the UI to simulate fullscreen
       </description>
     </key>
   </schema>
