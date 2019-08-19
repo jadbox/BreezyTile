@@ -78,7 +78,7 @@ var SuperWorkspace = class SuperWorkspace {
             children: [new St.Bin({ child: this.categorizedAppCard })]
         });
 
-        this.backgroundContainer.add_child(this.backgroundStackLayout);
+        // this.backgroundContainer.add_child(this.backgroundStackLayout);
 
         this.windowFocused = null;
 
