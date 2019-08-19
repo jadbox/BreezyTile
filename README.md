@@ -1,7 +1,7 @@
 # BreezyTile
 ## A tiling shell replacement for GNOME Shell to simplify your workflow and accelerate your productivity.
 
-The project is based on @PapyElGringo work on [Material Shell](https://github.com/PapyElGringo/material-shell). This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow, but without any changes to the gnome shell chrome/layout.
+The project is based upon [Material Shell](https://github.com/PapyElGringo/material-shell). While Material-Shell aims to apply a 'material' replacement of gnome's UI panels, BreezyTile focuses on just clean tiling management without actually changing gnome's UI. This GNOME Shell extension provides a performant, opinionated mouse/keyboard workflow, but without any changes to the actual gnome shell layout.
 
 ## Demo
 (outdated demo video)
